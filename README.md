@@ -1,2 +1,2 @@
-# Ansible-Tomcat
+# Ansible Tomcat
 Ansible Tomcat
